@@ -1,0 +1,10 @@
+{
+  "name": "rocket-man-alexa-skill",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "alexa-sdk": "^1.0.10",
+    "https": "^1.0.0",
+    "whimsy": "^1.0.1"
+  }
+}

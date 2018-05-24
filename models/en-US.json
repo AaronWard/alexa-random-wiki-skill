@@ -1,0 +1,31 @@
+{
+  "interactionModel": {
+    "languageModel": {
+      "invocationName": "random wiki",
+      "intents": [
+        {
+          "name": "GetRandom",
+          "samples": [
+            "give me a random fact",
+            "tell me something interesting",
+            "tell me about something random",
+            "give me knowledge about something completely random",
+            "give me info on something",
+            "englighten me",
+            "share some random knowledge",
+            "share some insight into something of your choice"
+          ]
+        },
+        {
+          "name": "AMAZON.StopIntent"
+        },
+        {
+          "name": "AMAZON.CancelIntent"
+        },
+        {
+          "name": "AMAZON.HelpIntent"
+        }
+      ]
+    }
+  }
+}
